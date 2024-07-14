@@ -1,0 +1,39 @@
+.best-seller-card {
+    position: relative;
+    background-color: #333;
+    color: white;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .best-seller-image {
+    width: 100%;
+    height: 192px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .best-seller-details {
+    position: relative;
+    bottom: 16px;
+    left: 16px;
+  }
+  
+  .best-seller-title {
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .best-seller-product {
+    font-size: 24px;
+  }
+  
+  .best-seller-description {
+    font-size: 18px;
+  }
+  
+  .best-seller-rating {
+    font-size: 18px;
+  }
+  
